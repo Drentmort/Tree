@@ -1,0 +1,13 @@
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.exe
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.deps.json
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.runtimeconfig.json
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.dll
+C:\Users\Anton\source\repos\testCS\testCS\bin\Debug\netcoreapp3.1\testCS.pdb
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.AssemblyInfo.cs
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.dll
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.pdb
+C:\Users\Anton\source\repos\testCS\testCS\obj\Debug\netcoreapp3.1\testCS.genruntimeconfig.cache
